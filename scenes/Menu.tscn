@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://83hwoyt4dse0"]
+[gd_scene load_steps=3 format=3 uid="uid://83hwoyt4dse0"]
 
 [ext_resource type="Script" path="res://scripts/Menu.gd" id="1_gljq4"]
+[ext_resource type="PackedScene" uid="uid://bj13tupi0gt2i" path="res://scenes/bg.tscn" id="2_ddcl6"]
 
 [node name="Menu" type="Node2D"]
 position = Vector2(0, 5)
@@ -25,6 +26,8 @@ size_flags_horizontal = 4
 size_flags_vertical = 8
 theme_override_font_sizes/font_size = 32
 text = "Выйти"
+
+[node name="BG" parent="." instance=ExtResource("2_ddcl6")]
 
 [connection signal="pressed" from="Play" to="." method="_on_play_pressed"]
 [connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
