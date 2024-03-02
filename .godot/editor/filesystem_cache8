@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1709386356
+::res://::1709388963
 ::res://addons/::1709385102
 ::res://addons/godot-git-plugin/::1709385102
 git_plugin.gdextension::GDExtension::-1::1709231070::0::1::::<><>::
@@ -7,32 +7,34 @@ plugin.cfg::TextFile::-1::1709231071::0::1::::<><>::
 THIRDPARTY.md::TextFile::-1::1709231071::0::1::::<><>::
 ::res://addons/godot-git-plugin/linux/::1709385102
 ::res://addons/godot-git-plugin/macos/::1709385102
-::res://addons/godot-git-plugin/win64/::1709385571
+::res://addons/godot-git-plugin/win64/::1709388935
 ::res://assets/::1709386356
-::res://assets/Jungle Asset Pack/::1709386352
+::res://assets/Jungle Asset Pack/::1709386357
 mockup.png::CompressedTexture2D::194872217816380694::1709386351::1709386357::1::::<><>::
 ::res://assets/Jungle Asset Pack/ Chacter with outline/::1709386351
 ::res://assets/Jungle Asset Pack/ Chacter with outline/files/::1709386351
-::res://assets/Jungle Asset Pack/ Chacter with outline/sprites/::1709386351
+::res://assets/Jungle Asset Pack/ Chacter with outline/sprites/::1709386357
 jump outline.png::CompressedTexture2D::6834872799416502467::1709386351::1709386357::1::::<><>::
 landing outline.png::CompressedTexture2D::464104766929546047::1709386351::1709386357::1::::<><>::
 ::res://assets/Jungle Asset Pack/Character/::1709386351
 ::res://assets/Jungle Asset Pack/Character/files/::1709386351
-::res://assets/Jungle Asset Pack/Character/sprites/::1709386351
+::res://assets/Jungle Asset Pack/Character/sprites/::1709386357
 jump.png::CompressedTexture2D::3074770140462882173::1709386351::1709386357::1::::<><>::
 landing.png::CompressedTexture2D::3039801236721417602::1709386351::1709386357::1::::<><>::
-::res://assets/Jungle Asset Pack/jungle tileset/::1709386351
+::res://assets/Jungle Asset Pack/jungle tileset/::1709386357
 jungle tileset.png::CompressedTexture2D::1354939548718581164::1709386351::1709386357::1::::<><>::
 ::res://assets/Jungle Asset Pack/jungle tileset/files/::1709386351
-::res://assets/Jungle Asset Pack/parallax background/::1709386351
+::res://assets/Jungle Asset Pack/parallax background/::1709386357
 plx-1.png::CompressedTexture2D::664288799161400764::1709386351::1709386357::1::::<><>::
 plx-2.png::CompressedTexture2D::4501433849474832611::1709386351::1709386357::1::::<><>::
 plx-3.png::CompressedTexture2D::7472225171953870701::1709386351::1709386357::1::::<><>::
 plx-4.png::CompressedTexture2D::7894118186581428719::1709386351::1709386357::1::::<><>::
 plx-5.png::CompressedTexture2D::989786915113523140::1709386351::1709386357::1::::<><>::
-::res://scenes/::1709385587
-level.tscn::PackedScene::6585697576327803610::1709385587::0::1::::<><>::res://scripts/level.gd
-Menu.tscn::PackedScene::2374499496888389041::1709385586::0::1::::<><>::res://scripts/Menu.gd
-::res://scripts/::1709385602
+::res://scenes/::1709387437
+bg.tscn::PackedScene::3073529177958820330::1709387437::0::1::::<><>::uid://jp10e3chnbt1::::res://assets/Jungle Asset Pack/parallax background/plx-1.png<>res://scripts/bg.gd<>uid://b5er7tiw5t1b8::::res://assets/Jungle Asset Pack/parallax background/plx-2.png<>uid://depupsfcjkt7b::::res://assets/Jungle Asset Pack/parallax background/plx-3.png<>uid://dkp78dagavyqh::::res://assets/Jungle Asset Pack/parallax background/plx-4.png<>uid://odpv7v0xrdkm::::res://assets/Jungle Asset Pack/parallax background/plx-5.png
+level.tscn::PackedScene::6585697576327803610::1709387436::0::1::::<><>::res://scripts/level.gd
+Menu.tscn::PackedScene::2374499496888389041::1709387436::0::1::::<><>::res://scripts/Menu.gd<>uid://bj13tupi0gt2i::::res://scenes/bg.tscn
+::res://scripts/::1709387211
+bg.gd::GDScript::-1::1709387211::0::1::::<>ParallaxBackground<>::
 level.gd::GDScript::-1::1709381481::0::1::::<>Node2D<>::
 Menu.gd::GDScript::-1::1709385602::0::1::::<>Node2D<>::
