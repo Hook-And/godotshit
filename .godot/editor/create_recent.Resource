@@ -1,2 +1,0 @@
-World2D
-RectangleShape2D
