@@ -1,2 +1,4 @@
 res://scenes/Menu.tscn
 res://scenes/level.tscn
+res://scenes/bg.tscn
+res://scripts/bg.gd
