@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709380816
+::res://addons/::1709231070
+::res://addons/godot-git-plugin/::1709231071
+git_plugin.gdextension::GDExtension::-1::1709231070::0::1::::<><>::
+plugin.cfg::TextFile::-1::1709231071::0::1::::<><>::
+THIRDPARTY.md::TextFile::-1::1709231071::0::1::::<><>::
+::res://addons/godot-git-plugin/linux/::1709231070
+::res://addons/godot-git-plugin/macos/::1709231071
+::res://addons/godot-git-plugin/win64/::1709380799
+::res://assets/::1709377860
+::res://scenes/::1709380418
+Menu.tscn::PackedScene::2374499496888389041::1709380418::0::1::::<><>::
+::res://scripts/::1709377878
